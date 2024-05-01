@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:homework3/GamePage.dart';
+import 'package:homework3/game_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
